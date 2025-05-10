@@ -10,3 +10,4 @@ mysql/mysql-server
 --platform=linux/arm64 mysql/mysql-server
 tomcat
 nginx
+centos7
