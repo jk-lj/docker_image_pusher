@@ -3,11 +3,6 @@
 --platform=linux/arm64 mysql
 --platform=linux/arm64 mysql:8.4.5
 --platform=linux/arm64 mysql:8.0.42
---platform=linux/arm64 mysql:5.7.37
---platform=linux/arm64 mysql:5.7.40
---platform=linux/arm64 mysql:5.7.39
---platform=linux/arm64 mysql:5.7.35
---platform=linux/arm64 mysql:5.7.33
 mysql
 mysql:8.0.42
 mysql:8.4.5
