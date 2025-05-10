@@ -13,4 +13,4 @@ tomcat
 nginx
 --platform=linux/arm64 nginx
 --platform=linux/arm64 redis
-centos7
+centos:7
