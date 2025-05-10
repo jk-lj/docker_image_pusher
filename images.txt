@@ -14,5 +14,3 @@ nginx
 --platform=linux/arm64 nginx
 --platform=linux/arm64 redis
 centos:7
-rpmbuild/centos7
-paigeeworld/centos7
