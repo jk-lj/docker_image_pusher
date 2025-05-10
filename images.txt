@@ -14,3 +14,4 @@ nginx
 --platform=linux/arm64 nginx
 --platform=linux/arm64 redis
 centos:7
+centos/mysql-57-centos7
