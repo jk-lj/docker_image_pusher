@@ -2,12 +2,11 @@
 #支持指定架构: --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 mysql
 --platform=linux/arm64 mysql:8.4.5
+--platform=linux/arm64 mysql:8.0.42
+--platform=linux/arm64 mysql:5.7.37
 mysql
 mysql:8.0.42
 mysql:8.4.5
 mysql/mysql-server
-mysql/mysql-server:8.0.42
-mysql/mysql-server:8.4.5
-mysql/mysql-server:5.7.37
 tomcat
 nginx
