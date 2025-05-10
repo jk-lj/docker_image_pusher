@@ -4,5 +4,6 @@
 mysql
 mysql:8.0.42
 mysql:8.4.5
+ddev/mysql:5.7.37
 tomcat
 nginx
