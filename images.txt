@@ -9,5 +9,8 @@ mysql:8.4.5
 mysql/mysql-server
 --platform=linux/arm64 mysql/mysql-server
 tomcat
+--platform=linux/arm64 tomcat
 nginx
+--platform=linux/arm64 nginx
+--platform=linux/arm64 redis
 centos7
